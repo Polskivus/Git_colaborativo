@@ -6,5 +6,6 @@ public static void Main(Strings arg[]){
   System.out.println("Introduce un nombre para probar:");
   
   String prueba = sc.nextLine();
-
+	
+  System.out.println(prueba);
 }
