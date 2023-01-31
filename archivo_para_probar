@@ -1,4 +1,8 @@
 public static void Main(Strings arg[]){
-
+  Scanner sc = new Scanner;
+  
+  System.out.println("Introduce un nombre para probar:");
+  
+  String prueba = sc.nextLine();
 
 }
